@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mustafahaita" target="blank"><img src="https://img.shields.io/twitter/follow/mustafahaita?logo=twitter&style=for-the-badge" alt="mustafahaita" /></a> </p>
 
-- 👨‍💻 I’m currently working on **Digital Image Proccessing & Machine Learning & Deep Learning & Backend**
+- 👨‍💻 I’m currently working on **Machine Learning & Backend**
 
 - 🌱 I’m currently learning **Django**
 
