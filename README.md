@@ -8,7 +8,7 @@
  
  🌱 I’m currently learning **Typescript, Next.js**
 
-💬 Ask me about **Python, JavaScript...**
+💬 Ask me about **Python, JavaScript.**
 
  </div>
  
