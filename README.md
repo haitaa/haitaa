@@ -6,7 +6,7 @@
  
  🔭 I’m currently working on **Full Stack Development & Web3 Technologies.**
  
- 🌱 I’m currently learning **Typescript, Next.js**
+ 🌱 I’m currently learning **Typescript, FastAPI**
 
 💬 Ask me about **Python, JavaScript.**
 
