@@ -8,7 +8,7 @@
  
  🌱 I’m currently learning **Typescript, FastAPI**
 
-💬 Ask me about **Python, JavaScript.**
+💬 Ask me about **Python, Typescript.**
 
  </div>
  
