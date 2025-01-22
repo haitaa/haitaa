@@ -4,9 +4,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Full Stack Development & Web3 Technologies.**
+ 🔭 I’m currently working on **Full Stack Development.**
  
- 🌱 I’m currently learning **Typescript, FastAPI**
+ 🌱 I’m currently learning **Machine Learning, FastAPI**
 
 💬 Ask me about **Python, Typescript.**
 
