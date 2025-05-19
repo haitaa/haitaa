@@ -6,9 +6,9 @@
  
  🔭 I’m currently working on **Full Stack Development.**
  
- 🌱 I’m currently learning **Machine Learning, FastAPI**
+ 🌱 I’m currently learning **Node.js, Express**
 
-💬 Ask me about **Python, Typescript.**
+💬 Ask me about **Typescript, JavaScript.**
 
  </div>
  
